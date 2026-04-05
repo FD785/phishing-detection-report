@@ -1,0 +1,16 @@
+From: security-alert@paypa1-support.com 
+To: customer@youremail.com 
+ 
+Dear Valued Customer, 
+ 
+We have detected suspicious login activity on your account. 
+Your account has been TEMPORARILY SUSPENDED for your safety. 
+ 
+To restore access, you must verify your identity within 
+24 hours or your account will be permanently closed. 
+ 
+>> Click Here to Verify Your Account Now << 
+   http://paypa1-support-verify.xyz/login 
+ 
+Thank you for your prompt attention. 
+PayPal Security Team 

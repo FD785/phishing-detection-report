@@ -1,0 +1,18 @@
+From: delivery-update@dhl-trackingportal.info 
+To: customer@youremail.com 
+ 
+Dear Customer, 
+ 
+We attempted to deliver your package today but were 
+unable to complete the delivery. 
+ 
+Tracking Number: DHL-48392-XK 
+ 
+To schedule a redelivery or collect from our depot, 
+please confirm your delivery address and pay the 
+small redelivery fee of $2.99: 
+ 
+Schedule Redelivery: http://dhl-trackingportal.info/redeliver 
+ 
+Please respond within 5 days or your parcel will be returned. 
+DHL Express Customer Service 

@@ -1,0 +1,18 @@
+From: accounts@supp1ier-invoices.com 
+To: finance@yourcompany.com 
+ 
+Dear Finance Team, 
+ 
+Please find attached Invoice #8821 for services rendered 
+in the amount of $12,450.00, due by end of this week. 
+ 
+We have recently updated our banking details. 
+Please use the NEW account information below for payment: 
+ 
+   Bank: First National Bank 
+   Account Name: Global Supplies Ltd. 
+   Account No: 7834920011 
+   Routing No: 021000021 
+ 
+Kindly confirm receipt of this email. 
+Regards, Accounts Team — Global Supplies Ltd. 
